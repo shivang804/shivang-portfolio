@@ -1,0 +1,21 @@
+section {
+    background: linear-gradient(to right, #f9f9f9, #e6e6e6);
+    padding: 40px 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  div {
+    margin-bottom: 20px;
+  }
+  
+  h3 {
+    color: #4CAF50;
+    margin-bottom: 5px;
+  }
+  
+  p {
+    color: #777;
+  }
+  

@@ -1,0 +1,28 @@
+footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #333;
+    color: white;
+    margin-top: 20px;
+    border-top: 4px solid #4CAF50;
+  }
+  /*#4CAF50*/
+  
+  footer a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s;
+  }
+  
+  footer a:hover {
+    color: #FFD700;
+  }
+  
+  @media (max-width: 600px) {
+    footer p, footer a {
+      display: block;
+      margin: 10px 0;
+    }
+  }
+  
